@@ -19,4 +19,3 @@ Then open the URL Vite shows (often `http://localhost:5173`). `npm run build` ma
 ## How it’s built
 
 **React + TypeScript + Vite + Tailwind.** `StoreProvider` (`src/store.tsx`) holds all tickets in state, saves to `localStorage`, and exposes `dispatch` for create/update/delete. UI lives under `src/components/`; helpers under `src/utils/`.
-# kanban_arphie
